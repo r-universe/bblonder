@@ -1,0 +1,18 @@
+[
+  {
+    "package": "comclim",
+    "oncran": true
+  },
+  {
+    "package": "hypervolume",
+    "oncran": true
+  },
+  {
+    "package": "netassoc",
+    "oncran": true
+  },
+  {
+    "package": "timeordered",
+    "oncran": true
+  }
+]
