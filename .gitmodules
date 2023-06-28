@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "comclim"]
 	path = comclim
 	url = https://github.com/bblonder/comclim
-	shallow = true
-	registered = true
 [submodule "hypervolume"]
 	path = hypervolume
 	url = https://github.com/bblonder/hypervolume
-	shallow = true
-	registered = true
 [submodule "netassoc"]
 	path = netassoc
 	url = https://github.com/bblonder/netassoc
-	shallow = true
-	registered = true
 [submodule "timeordered"]
 	path = timeordered
 	url = https://github.com/bblonder/timeordered
-	shallow = true
-	registered = true
